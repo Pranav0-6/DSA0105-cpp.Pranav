@@ -1,0 +1,12 @@
+POLYMORPHIC ACCOUNT RATES
+Regular account: 3.5%
+Senior account: 4%
+
+OUTPUT PREDICTION PROGRAM
+4 4 3.5
+Account destructor
+SeniorAccount destructor (history released)
+Account destructor
+Account destructor
+SeniorAccount destructor (history released)
+Account destructor

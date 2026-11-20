@@ -1,0 +1,24 @@
+HOSPITAL BILLING SUMMARY
+-------------------------------
+OP Ravi: Rs 1700.00
+  SelfPay covers Rs 1700.00
+  Insurance covers Rs 1530.00
+  GovernmentScheme covers Rs 1700.00
+
+IP Meena: Rs 51000.00
+  SelfPay covers Rs 51000.00
+  Insurance covers Rs 45900.00
+  GovernmentScheme covers Rs 20000.00
+
+DAYCARE Kumar: Rs 18000.00
+  SelfPay covers Rs 18000.00
+  Insurance covers Rs 16200.00
+  GovernmentScheme covers Rs 18000.00
+
+EMERGENCY Asha: Rs 5000.00
+  SelfPay covers Rs 5000.00
+  Insurance covers Rs 4500.00
+  GovernmentScheme covers Rs 5000.00
+
+-------------------------------
+Day total: Rs 75700.00

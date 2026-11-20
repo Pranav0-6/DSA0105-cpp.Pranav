@@ -1,0 +1,12 @@
+TEACHING ASSISTANT
+Name: Kavya, ID: 201, Phone: 9876543210
+Programme: B.Tech IT, CGPA: 8.7
+Department: Computer Science, Salary: 25000
+
+RESEARCH SCHOLAR
+Name: Arun, ID: 202, Phone: 9876501234
+Programme: M.Tech, CGPA: 9.1
+Fellowship: 12000
+
+Person subobject size in this build: 80 bytes
+TeachingAssistant size in this build: 176 bytes

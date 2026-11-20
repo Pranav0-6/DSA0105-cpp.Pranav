@@ -1,0 +1,6 @@
+Default book:
+Title: Untitled, Author: Unknown, Copies: 0
+Donated book:
+Title: Wings of Fire, Author: Unknown, Copies: 1
+Full book:
+Title: The Guide, Author: R. K. Narayan, Copies: 5

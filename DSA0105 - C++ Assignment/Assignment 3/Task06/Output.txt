@@ -1,0 +1,6 @@
+[copy] [copy] 
+Message: Hello World
+[copy] Copy: Hello World
+Equal: true, Not equal: true
+Empty text: []
+After self-assignment: Hello World

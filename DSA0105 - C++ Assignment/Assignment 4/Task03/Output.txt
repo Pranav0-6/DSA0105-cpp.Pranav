@@ -1,0 +1,32 @@
+--- Student object ---
+Address constructed
+Person constructed: Kavya
+Course constructed: OOP
+Student constructed
+192311001 Kavya (19) Salem-636001
+Student destroyed
+Course destroyed: OOP
+Person destroyed: Kavya
+Address destroyed
+
+--- Staff object ---
+Address constructed
+Person constructed: Ravi
+Staff constructed
+Staff destroyed
+Person destroyed: Ravi
+Address destroyed
+
+--- TeachingAssistant object (virtual diamond) ---
+Address constructed
+Person constructed: Meena
+Course constructed: C++
+Student constructed
+Staff constructed
+TeachingAssistant constructed
+TeachingAssistant destroyed
+Staff destroyed
+Student destroyed
+Course destroyed: C++
+Person destroyed: Meena
+Address destroyed

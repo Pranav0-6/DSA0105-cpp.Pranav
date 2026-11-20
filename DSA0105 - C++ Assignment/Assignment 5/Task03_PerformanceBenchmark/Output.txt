@@ -1,0 +1,7 @@
+BENCHMARK (times depend on your computer/compiler)
+virtual n=1000 time_ms=0.026644 checksum=2.23793e+07
+switch n=1000 time_ms=0.009518 checksum=2.23793e+07
+variant-style n=1000 time_ms=0.00944 checksum=2.23793e+07
+virtual n=1000000 time_ms=25.5987 checksum=2.24e+10
+switch n=1000000 time_ms=7.30066 checksum=2.24e+10
+variant-style n=1000000 time_ms=7.28851 checksum=2.24e+10

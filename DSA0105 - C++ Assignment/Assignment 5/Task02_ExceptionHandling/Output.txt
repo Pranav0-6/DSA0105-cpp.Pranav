@@ -1,0 +1,14 @@
+CLAIM SETTLEMENT TESTS
+approved 40000
+audit: exceeds cover
+claim rejected: exceeds cover
+error: negative amount
+
+OTHER ERROR TESTS
+text error: stod
+package error: unknown package: GOV-X
+created temporary-record
+destroyed temporary-record
+top-level catch(...) handled failure
+allocation error: bad_alloc
+

@@ -1,0 +1,3 @@
+Chained cart total: 324.00
+Highest cart total: 47500.00
+Heap cart total: 30.00

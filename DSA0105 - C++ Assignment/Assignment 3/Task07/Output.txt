@@ -1,0 +1,5 @@
+Series impedance: 10.00 - j15.00 ohm
+Series magnitude: 18.03 ohm
+Parallel impedance: 5.00 + j5.00 ohm
+Parallel magnitude: 7.07 ohm
+Error: Division by zero impedance

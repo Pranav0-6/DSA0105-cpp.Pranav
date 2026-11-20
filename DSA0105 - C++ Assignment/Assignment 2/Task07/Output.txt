@@ -1,0 +1,6 @@
+Operations: 200000
+Original shifting checksum: 1999945
+Redesigned circular checksum: 1999945
+Shifting add time (microseconds): 5564
+Circular add time (microseconds): 1358
+Both designs retain only the latest 10 values.

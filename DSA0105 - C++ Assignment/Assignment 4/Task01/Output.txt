@@ -1,0 +1,7 @@
+COLLEGE PAYROLL
+------------------------
+Anitha (ID 101) : Rs 79000.00
+Bala (ID 102) : Rs 42600.00
+Charan (ID 103) : Rs 24000.00
+------------------------
+Total staff: 3

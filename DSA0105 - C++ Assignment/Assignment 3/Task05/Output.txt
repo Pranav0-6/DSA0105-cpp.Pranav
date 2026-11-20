@@ -1,0 +1,6 @@
+a=0:59:59, b=1:00:01, t=1:00:01
+0: Song One
+1: Song Two
+2: Song Three
+Error: Track index out of range
+c < d: true

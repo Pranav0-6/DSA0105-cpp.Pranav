@@ -1,0 +1,5 @@
+[copy constructor] copied 2 medicine(s)
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+[copy constructor] copied 2 medicine(s)
+Passed by value: Ibuprofen
+Passed by const reference: Ibuprofen

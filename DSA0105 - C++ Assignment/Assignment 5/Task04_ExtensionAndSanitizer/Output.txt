@@ -1,0 +1,16 @@
+OP total=1700
+  SelfPay covers=1700
+  Insurance covers=1530
+  CorporateTieUp covers=1190
+IP total=47500
+  SelfPay covers=47500
+  Insurance covers=42750
+  CorporateTieUp covers=33250
+MATERNITY total=35000
+  SelfPay covers=35000
+  Insurance covers=31500
+  CorporateTieUp covers=24500
+acquired claim-file
+released claim-file
+caught: demonstration exception
+completed without leaks expected

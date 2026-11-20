@@ -1,0 +1,5 @@
+Highest mark: 92
+After moderation: 94
+Read-only reference: 94
+Index alternative: 1
+Pointer alternative: 94

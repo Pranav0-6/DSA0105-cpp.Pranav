@@ -1,0 +1,8 @@
+Account: SA1001
+Balance: 5650
+Last transactions (oldest to newest):
+Deposit: 1000
+Withdrawal: 500
+Deposit: 250
+Withdrawal: 100
+Current balance: 5650

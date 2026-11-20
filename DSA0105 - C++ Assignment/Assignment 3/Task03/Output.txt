@@ -1,0 +1,12 @@
+1. Stack object
+Created event: College Day
+2. Heap object
+Created event: Music Concert
+Closed event: Music Concert, booked seats: 1
+3. Block-scope object
+Created event: Workshop
+Closed event: Workshop, booked seats: 1
+4. Zero-row event
+Created event: No Seat Event
+Closed event: No Seat Event, booked seats: 0
+Closed event: College Day, booked seats: 1

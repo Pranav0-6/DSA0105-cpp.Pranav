@@ -1,0 +1,3 @@
+205 false
+Across noon: 20 minutes; earlier=true
+Same time: 0 minutes; earlier=false

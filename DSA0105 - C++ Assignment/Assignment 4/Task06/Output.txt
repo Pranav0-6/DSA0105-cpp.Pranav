@@ -1,0 +1,31 @@
+FLEET LIST
+Bicycle | BI-101 | Rs 100/day | Available
+Two-wheeler | TW-202 | Rs 250/day | Available
+Car | CA-303 | Rs 1200/day | Available
+  Seats: 5, fuel: 65%, service due: 2026-12-10
+Electric car | EV-404 | Rs 1500/day | Available
+  Seats: 5, battery: 50 kWh, energy rate: Rs 8/kWh
+Electric bus | EB-505 | Rs 4000/day | Available
+  Passenger capacity: 30
+
+RENT AND RETURN DEMONSTRATION
+Bicycle rent: success
+Two-wheeler rent: success
+Car rent: success
+Electric car rent: success
+Electric bus rent: success
+Bicycle return amount (2 late days): Rs 300
+Two-wheeler return amount (2 late days): Rs 750
+Car return amount (2 late days): Rs 3600
+Electric car return amount (2 late days): Rs 4900
+Electric bus return amount (2 late days): Rs 12000
+
+FINAL STATUS
+Bicycle | BI-101 | Rs 100/day | Available
+Two-wheeler | TW-202 | Rs 250/day | Available
+Car | CA-303 | Rs 1200/day | Available
+  Seats: 5, fuel: 65%, service due: 2026-12-10
+Electric car | EV-404 | Rs 1500/day | Available
+  Seats: 5, battery: 50 kWh, energy rate: Rs 8/kWh
+Electric bus | EB-505 | Rs 4000/day | Available
+  Passenger capacity: 30
